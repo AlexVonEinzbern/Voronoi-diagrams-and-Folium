@@ -5,3 +5,14 @@ In mathematics, a [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagra
 <p align="center">
   <img src="/imgs/Voronoi_diagram.png" title="Euclidean Voronoi diagram" width="250" height="250">
 </p>
+
+<!DOCTYPE html>
+<html>
+<body>
+<figure>
+  <img src="/imgs/Voronoi_diagram.png" alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
+
+</body>
+</html>

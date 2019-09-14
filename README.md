@@ -8,7 +8,7 @@ In mathematics, a [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagra
   </head>
   <body>
     <div class="prueba" align="center">
-      <table align>
+      <table>
         <tr>
          <img src="/imgs/Voronoi_diagram.png" width="250" height="250" aling="center"> 
         </tr>

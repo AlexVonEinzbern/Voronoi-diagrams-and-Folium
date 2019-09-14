@@ -6,18 +6,7 @@ In mathematics, a [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagra
   <img src="/imgs/Voronoi_diagram.png" title="Euclidean Voronoi diagram" width="250" height="250">
 </p>
 
-<div class="img-with-text">
-    <img src="/imgs/Voronoi_diagram.png" alt="sometext" />
-    <p>Euclidean Voronoi diagram</p>
-</div>
-
-
-.img-with-text {
-    text-align: justify;
-    width: [250];
-}
-
-.img-with-text img {
-    display: block;
-    margin: 0 auto;
-}
+<figure>
+  <img src="/imgs/Voronoi_diagram.png" alt="my img" width="250" height="250"/>
+  <figcaption> Euclidean Voronoi diagram </figcaption>
+</figure>

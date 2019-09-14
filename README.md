@@ -32,7 +32,7 @@ Our Voronoi diagram will be for train stations across the New York city (using t
     <div class="map-result" align="center">
       <table>
         <tr>
-         <img src="/imgs/map-result.png" aling="center"> 
+         <img src="/imgs/map_result.png" aling="center"> 
         </tr>
         <tr>
           <p aling="center"><b>Fig 2. Map with Voronoi regions.</b></p>

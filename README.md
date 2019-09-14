@@ -10,8 +10,10 @@ In mathematics, a [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagra
 <html>
 <body>
 <figure>
-  <img src="/imgs/Voronoi_diagram.png" alt="Trulli" style="width:100%">
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+  <p align="center">
+    <img src="/imgs/Voronoi_diagram.png" alt="Trulli" style="width:100%">
+    <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+  </p>
 </figure>
 
 </body>

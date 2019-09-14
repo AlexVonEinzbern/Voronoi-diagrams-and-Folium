@@ -6,4 +6,4 @@ In mathematics, a [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagra
   <img src="/imgs/Voronoi_diagram.png">
 </p>
 
-![alt text](/imgs/Voronoi_diagram.png "Euclidean Voronoi diagram")
+![alt text](/imgs/Voronoi_diagram.png "Euclidean Voronoi diagram" align="center")

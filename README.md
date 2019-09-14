@@ -11,8 +11,8 @@ In mathematics, a [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagra
 <body>
 <figure>
   <p align="center">
-    <img src="/imgs/Voronoi_diagram.png" alt="Trulli" style="width:50%">
-    <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+    <img src="/imgs/Voronoi_diagram.png" alt="Trulli" style="width:250">
+    <figcaption>Fig.1 - Euclidean Voronoi diagram.</figcaption>
   </p>
 </figure>
 

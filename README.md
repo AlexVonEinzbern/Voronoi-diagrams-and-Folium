@@ -22,7 +22,7 @@ In mathematics, a [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagra
 
 ## Case study
 
-Our Voronoi diagram will be for train stations across the New York city (using the CSV [Train Stations](https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49) data set). Our map highlights the regions closest to each station:
+Our Voronoi diagram will be for Train Stations across the New York City (using the CSV [Train Stations](https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49) data set). Our map highlights the regions closest to each station:
 
 <!DOCTYPE html>
 <html>

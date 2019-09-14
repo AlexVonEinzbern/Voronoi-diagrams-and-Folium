@@ -11,7 +11,7 @@ In mathematics, a [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagra
 <body>
 <figure>
   <p align="center">
-    <img src="/imgs/Voronoi_diagram.png" alt="Trulli" style="width:100%">
+    <img src="/imgs/Voronoi_diagram.png" alt="Trulli" style="width:50%">
     <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
   </p>
 </figure>

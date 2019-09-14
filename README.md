@@ -13,7 +13,7 @@ In mathematics, a [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagra
          <img src="/imgs/Voronoi_diagram.png" width="250" height="250" aling="center"> 
         </tr>
         <tr>
-          <p aling="center">Fig 1. Euclidean Voronoi diagram.</p>
+          <p aling="center"><b>Fig 1. Euclidean Voronoi diagram.</b></p>
         </tr>
       </table>
     </div>

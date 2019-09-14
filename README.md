@@ -7,7 +7,7 @@ In mathematics, a [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagra
 </p>
 
 <p align="center">
-  <figure align="center">
+  <figure>
     <img src="/imgs/Voronoi_diagram.png" alt="my img" width="250" height="250"/>
     <figcaption> Euclidean Voronoi diagram </figcaption>
   </figure>

@@ -4,4 +4,5 @@ In mathematics, a [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagra
 
 <p align="center">
   <img src="/imgs/Voronoi_diagram.png" title="Euclidean Voronoi diagram" width="250" height="250">
+  <figcaption> Euclidean Voronoi diagram </figcaption>
 </p>

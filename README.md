@@ -13,8 +13,6 @@ In mathematics, a [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagra
         <img src="/imgs/Voronoi_diagram.png" width="250" height="250">
       </figure>
     </div>
-    
-    
     <div class="prueba">
       <table>
         <tr>
@@ -24,10 +22,6 @@ In mathematics, a [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagra
           <p aling="center">Fig 1. Euclidean Voronoi diagram</p>
         </tr>
       </table>
-    
     </div>
-    
-    
-    
   </body>
 </html>

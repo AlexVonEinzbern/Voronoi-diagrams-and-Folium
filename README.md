@@ -5,10 +5,3 @@ In mathematics, a [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagra
 <p align="center">
   <img src="/imgs/Voronoi_diagram.png" title="Euclidean Voronoi diagram" width="250" height="250">
 </p>
-
-<p align="center">
-  <figure>
-    <img src="/imgs/Voronoi_diagram.png" alt="my img" width="250" height="250"/>
-    <figcaption> Euclidean Voronoi diagram </figcaption>
-  </figure>
-</p>

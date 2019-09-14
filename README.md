@@ -7,7 +7,7 @@ In mathematics, a [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagra
   <head>
   </head>
   <body>
-    <div class="prueba" align="center">
+    <div class="voronoi-map" align="center">
       <table>
         <tr>
          <img src="/imgs/Voronoi_diagram.png" width="250" height="250" aling="center"> 
@@ -22,3 +22,22 @@ In mathematics, a [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagra
 
 ## Case study
 
+Our Voronoi diagram will be for train stations across the New York city (using the CSV [train stations](https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49) data set). Our map highlights the regions closest to each station:
+
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <div class="map-result" align="center">
+      <table>
+        <tr>
+         <img src="/imgs/map-result.png" aling="center"> 
+        </tr>
+        <tr>
+          <p aling="center"><b>Fig 2. Map with Voronoi regions.</b></p>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>

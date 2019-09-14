@@ -6,18 +6,10 @@ In mathematics, a [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagra
 <html>
   <head>
     <style>
-      .img-with-text {
-        text-align: justify;
-        width: [width of img];
-      }
-      .img-with-text img {
-        display: block;
-        margin: 0 auto;
-}
     </style>
   </head>
   <body>
-    <figure style="float:left;">
+    <figure style="float:center;">
         <img src="/imgs/Voronoi_diagram.png" alt="Trulli" width="250" height="250">
         <figcaption>Fig.1 - Euclidean Voronoi diagram.</figcaption>
     </figure>

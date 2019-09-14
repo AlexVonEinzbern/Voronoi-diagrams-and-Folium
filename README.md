@@ -8,10 +8,8 @@ In mathematics, a [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagra
   </head>
   <body>
     <figure>
-      <p align="canter">
         <img src="/imgs/Voronoi_diagram.png" alt="Trulli" width="250" height="250">
         <figcaption>Fig.1 - Euclidean Voronoi diagram.</figcaption>
-      </p>
     </figure>
   </body>
 </html>
